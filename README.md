@@ -1,1 +1,1 @@
-# SMath
+# S_go
